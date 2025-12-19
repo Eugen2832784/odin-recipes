@@ -1,0 +1,51 @@
+
+body{
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+}
+.menu{
+    padding-left: 50px;
+    padding-bottom:10px;
+    padding-top:10px;
+    background-color: rgb(245, 216, 100);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.box{
+    margin: 30px 80px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+img{
+    max-width: 500px;
+    margin: 0 400px 0 400px;
+}
+
+.leftside{
+    margin-right:500px
+}
+
+h1{
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+h2{
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+
+ul{
+
+}
+
+ol{
+
+}
+.italic{
+    text-align: center;
+}
